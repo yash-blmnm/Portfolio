@@ -3,7 +3,7 @@ import Header from "./Components/Header";
 
 function App() {
   return (
-    <div className="bg-[#191919] min-h-100vh">
+    <div className="bg-[#191919] min-h-100vh text-sm">
       <Header />
       <Content />
     </div>
