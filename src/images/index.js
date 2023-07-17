@@ -20,6 +20,8 @@ import TsLogo from "./tsLogo.png";
 import VscLogo from "./vscLogo.png";
 import WebpackLogo from "./webpackLogo.png";
 import esLintLogo from "./eslintLogo.png";
+import gatsbyLogo from "./gatsbyLogo.png";
+import viteLogo from "./viteLogo.png";
 
 const imageMap = {
   chai: ChaiLogo,
@@ -44,6 +46,8 @@ const imageMap = {
   vscode: VscLogo,
   webpack: WebpackLogo,
   eslint: esLintLogo,
+  gatsby: gatsbyLogo,
+  vite: viteLogo,
 };
 
 export default imageMap;

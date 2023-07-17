@@ -19,16 +19,15 @@ const AboutMe = () => {
         <div className="flex flex-row  mb-1">
             <span className="pl-4 text-[#757575]">{`7.`}</span>
             <div className="text-[#abb2bf] pl-4">{`Typescript, ReactJS(Hooks), Redux, Javascript, HTML, CSS, SASS, Tailwind, Webpack(basic concepts), Storybook, REST API`}</div>
-            {/* , NodeJs, Ruby on Rails */}
         </div>
         <div className="mb-1"><span className="pl-4 text-[#757575]">{`8.`}</span><span className="text-[#abb2bf] pl-4">{``}</span></div>
         <div className="mb-1"><span className="pl-4 text-[#757575]">{`9.`}</span>
-            <span className="text-sky-500 pl-4">{`## Self Taught Skills`}</span>
+            <span className="text-sky-500 pl-4">{`## Currently pursuing and Experimenting`}</span>
         </div>
         <div className="mb-1"><span className="pl-4 text-[#757575]">{`10.`}</span></div>
         <div className="mb-1">
             <span className="pl-4 text-[#757575]">{`11.`}</span>
-            <span className="text-[#abb2bf] pl-4">{`AWS Basics, MicroFrontends`}</span>
+            <span className="text-[#abb2bf] pl-4">{`AWS Basics, MicroFrontends, GatsbyJs, Vite, NextJs`}</span>
         </div>
         <div className="mb-1"><span className="pl-4 text-[#757575]">{`12.`}</span><span className="text-[#abb2bf] pl-4">{``}</span></div>
         <div className="mb-1"><span className="pl-4 text-[#757575]">{`13.`}</span>

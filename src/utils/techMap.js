@@ -97,6 +97,14 @@ const TechMap = {
     name: "Redux Toolkit",
     logo: imageMap["redux"],
   },
+  gatsby: {
+    name: "GatsbyJs",
+    logo: imageMap["gatsby"],
+  },
+  vite: {
+    name: "Vite",
+    logo: imageMap["vite"],
+  },
 };
 
 export default TechMap;
