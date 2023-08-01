@@ -18,7 +18,7 @@ const AboutMe = () => {
         <div className="mb-1"><span className="pl-4 text-[#757575]">{`6.`}</span><span className="text-[#abb2bf] pl-4">{``}</span></div>
         <div className="flex flex-row  mb-1">
             <span className="pl-4 text-[#757575]">{`7.`}</span>
-            <div className="text-[#abb2bf] pl-4">{`Typescript, ReactJS(Hooks), Redux, Javascript, HTML, CSS, SASS, Tailwind, Webpack(basic concepts), Storybook, REST API`}</div>
+            <div className="text-[#abb2bf] pl-4">{`Typescript, ReactJS(Hooks), Redux, Javascript, HTML, CSS, SCSS, Tailwind, Webpack(basic concepts), Storybook, REST API`}</div>
         </div>
         <div className="mb-1"><span className="pl-4 text-[#757575]">{`8.`}</span><span className="text-[#abb2bf] pl-4">{``}</span></div>
         <div className="mb-1"><span className="pl-4 text-[#757575]">{`9.`}</span>

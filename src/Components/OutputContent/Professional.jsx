@@ -3,7 +3,7 @@ import React from 'react';
 const Professional = () => {
     return <>
         <section>
-            <div className='text-xl font-semibold pb-1 mb-2 border-b border-b-[#dadada]'>1. Socure</div>
+            <div className='text-xl font-semibold pb-1 mb-2 border-b border-b-[#dadada]'>1. <a target="_blank" className="text-[#0a66c2]" href="https://www.linkedin.com/company/socure/">Socure</a></div>
             <div className="flex flex-row mb-1">
                 <span className="text-[#757575] pl-2">{`* `}</span>
                 <span className="pl-2">{`Developed core reusable UI components using ReactJs and Typescript, managed packages, and documented setup guidelines for seamless onboarding.`}</span>
@@ -18,7 +18,7 @@ const Professional = () => {
             </div>
         </section>
         <section>
-            <div className='text-xl font-semibold pb-1 mb-2 border-b border-b-[#dadada]'>2. Appmetry Technologies</div>
+            <div className='text-xl font-semibold pb-1 mb-2 border-b border-b-[#dadada]'>2. <a target="_blank" className="text-[#0a66c2]" href="https://www.linkedin.com/company/appmetry/">Appmetry Technologies</a></div>
             <div className="flex flex-row mb-1">
                 <span className="text-[#757575] pl-2">{`* `}</span>
                 <span className="pl-2">{`Involved in developing cloud functions, set up Firebase Relational Database, integrated Firebase Test SDK to test Cloud Functions, deployed and host the build using Firebase Hosting.`}</span>
@@ -33,7 +33,7 @@ const Professional = () => {
             </div>
         </section>
         <section>
-            <div className='text-xl font-semibold pb-1 mb-2 border-b border-b-[#dadada]'>3. Freshworks</div>
+            <div className='text-xl font-semibold pb-1 mb-2 border-b border-b-[#dadada]'>3. <a target="_blank" className="text-[#0a66c2]" href="https://www.linkedin.com/company/freshworks-inc/">Freshworks</a></div>
             <div className="flex flex-row mb-1">
                 <span className="text-[#757575] pl-2">{`* `}</span>
                 <span className="pl-2">{`Implemented the Parent-Child(dependent) Ticketing System, aiding clients to resolve issues faster by allowing agents to divide a ticket into smaller sub-tickets enabling agents to work on them in parallel.`}</span>
@@ -52,7 +52,7 @@ const Professional = () => {
             </div>
         </section>
         <section>
-            <div className='text-xl font-semibold pb-1 mb-2 border-b border-b-[#dadada]'>4. GoFrugal Technologies</div>
+            <div className='text-xl font-semibold pb-1 mb-2 border-b border-b-[#dadada]'>4. <a target="_blank" className="text-[#0a66c2]" href="https://www.linkedin.com/company/gofrugal/">GoFrugal Technologies</a></div>
             <div className="flex flex-row mb-1">
                 <span className="text-[#757575] pl-2">{`* `}</span>
                 <span className="pl-2">{`Worked on creating forms to record inputs regarding the sales activities and form validations using HTML and vanilla javascript.`}</span>

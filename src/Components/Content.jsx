@@ -62,7 +62,7 @@ const Content = () => {
                                 <WavingHandIcon sx={{ fontSize: 20, color: '#ffff45' }} color="yellow" />
                             </div>
                             <div className="flex flex-col gap-4">
-                                <div>&emsp;{`As a detail-oriented software developer, I have gained valuable experience in building web pages, creating interactive UI components, and seamlessly integrating 3rd-party APIs.`}</div>
+                                <div>&emsp;{`As a seasoned software developer, I have gained valuable experience in building web pages, creating interactive UI components, and seamlessly integrating 3rd-party APIs.`}</div>
                                 <div>&emsp;{`I excel in both independent and collaborative programming, leveraging my expertise in understanding backend interactions to troubleshoot effectively.`}</div>
                                 <div>&emsp;{`I take pride in my resourcefulness and my ability to deliver exceptional results.`}</div>
                                 <div>{`To know more or to collaborate please drop me a message through LinkedIn, Twitter or `}<a href={'mailto:yasaswini.balasubramaniam@gmail.com'}>email</a></div>
